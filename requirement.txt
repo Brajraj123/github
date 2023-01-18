@@ -1,0 +1,2 @@
+This is a chat chat application
+fetures-imoji, type option, colors, 
